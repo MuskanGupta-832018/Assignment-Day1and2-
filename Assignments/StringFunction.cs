@@ -49,6 +49,6 @@ namespace StringFunctions
             return (vowels, consonants, digits, specialChars);
         }
 
-        // Implement the remaining methods similarly
+        
     }
 }
